@@ -5,6 +5,8 @@ public class ShareRepo {
 		
 		System.out.println("Hii!! Amit Bhai ,How are you");
 
+		System.out.println("This is my first git hub code Kindly add something From your Side");
+
 	}
 
 }
